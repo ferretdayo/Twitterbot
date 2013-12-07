@@ -44,7 +44,6 @@ function fileop($i){
 }
 
 $msg = fileop($i);
-
 $params = array(
 
 		'status' => $msg
