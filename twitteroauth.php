@@ -66,7 +66,6 @@ class TwitterOAuth {
     }
   }
 
-
   /**
    * Get a request_token from Twitter
    *
